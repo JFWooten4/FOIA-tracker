@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A public, community-run tracker for SEC FOIA requests and correspondence.">
+  <title>FOIA Tracker — Follow the paper trail</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="FOIA Tracker home">
+      <span class="brand-mark" aria-hidden="true">F</span>
+      <span>FOIA Tracker</span>
+    </a>
+    <nav aria-label="Primary navigation">
+      <a href="#requests">Requests</a>
+      <a href="#correspondence">Correspondence</a>
+      <a href="#why-foia">Why FOIA?</a>
+      <a class="nav-cta" href="https://www.sec.gov/forms/request_public_docs" rel="noreferrer">File with the SEC ↗</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top">
+      <div class="hero-copy">
+        <p class="eyebrow">Public records, in public</p>
+        <h1>Follow the paper trail.</h1>
+        <p class="hero-lede">See what was requested from the SEC, what came back, and where each request stands. The goal is simple: make FOIA work visible enough that anyone can learn from it and join in.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#requests">Follow a request</a>
+          <a class="button secondary" href="#start">Learn how to file one</a>
+        </div>
+      </div>
+      <aside class="hero-card" aria-label="Tracker summary">
+        <div class="pulse-row"><span class="pulse" aria-hidden="true"></span><span>Tracker active</span></div>
+        <dl class="summary-grid">
+          <div><dt>Tracked requests</dt><dd>1</dd></div>
+          <div><dt>Public documents</dt><dd>1</dd></div>
+          <div><dt>Agency</dt><dd>SEC</dd></div>
+          <div><dt>Latest stage</dt><dd>Acknowledged</dd></div>
+        </dl>
+        <p class="fine-print">Community-run tracker. Not affiliated with or operated by the SEC.</p>
+      </aside>
+    </section>
+
+    <section class="section" id="requests">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Open request</p>
+          <h2>SEC FOIA 26-00500-FOIA</h2>
+        </div>
+        <button class="copy-button" type="button" data-copy="26-00500-FOIA">Copy request number</button>
+      </div>
+
+      <article class="request-card">
+        <div class="request-main">
+          <div class="status-line">
+            <span class="status-badge">Acknowledged</span>
+            <span class="muted">Last tracker update: 5 Sep 2026</span>
+          </div>
+          <h3>Tracking the SEC’s response from acknowledgment through final production</h3>
+          <p>This page collects the public correspondence for this request in one place so anyone can follow the process without needing access to the requester’s private SEC account.</p>
+          <div class="progress" role="img" aria-label="Request progress: acknowledged, next public correspondence pending">
+            <span class="progress-step complete"><b>1</b><span>Filed</span></span>
+            <span class="progress-step complete"><b>2</b><span>Acknowledged</span></span>
+            <span class="progress-step current"><b>3</b><span>Processing</span></span>
+            <span class="progress-step"><b>4</b><span>Response</span></span>
+          </div>
+          <p class="fine-print">The stage shown here reflects documents posted to this repository, not a live readout from the SEC Public Access Link.</p>
+        </div>
+        <aside class="request-meta" aria-label="Request metadata">
+          <dl>
+            <div><dt>Agency</dt><dd>U.S. Securities and Exchange Commission</dd></div>
+            <div><dt>Request no.</dt><dd><code>26-00500-FOIA</code></dd></div>
+            <div><dt>Public correspondence</dt><dd>1 document</dd></div>
+            <div><dt>Source repository</dt><dd><a href="https://github.com/JFWooten4/FOIA-tracker">GitHub ↗</a></dd></div>
+          </dl>
+        </aside>
+      </article>
+    </section>
+
+    <section class="section" id="correspondence">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Correspondence</p>
+          <h2>Read the record as it develops</h2>
+        </div>
+      </div>
+
+      <div class="timeline">
+        <article class="timeline-item">
+          <div class="timeline-marker" aria-hidden="true"></div>
+          <div class="document-card">
+            <div class="document-topline">
+              <span class="document-type">SEC correspondence</span>
+              <span class="status-badge subtle">Acknowledgment</span>
+            </div>
+            <h3>Acknowledgement Letter FOIA-PA — 26-00500-FOIA</h3>
+            <p>The acknowledgment currently available in the tracker. Future letters, productions, fee communications, scope discussions, and final responses can be added here in chronological order.</p>
+            <div class="document-actions">
+              <a class="button primary compact" href="Acknowledgement%20Letter%20FOIA-PA%20-%2026-00500-FOIA.pdf">Open PDF</a>
+              <a class="text-link" href="https://github.com/JFWooten4/FOIA-tracker/blob/main/Acknowledgement%20Letter%20FOIA-PA%20-%2026-00500-FOIA.pdf">View source on GitHub ↗</a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section split-section" id="why-foia">
+      <div class="sticky-copy">
+        <p class="eyebrow">Why bother?</p>
+        <h2>A good FOIA request turns “I wonder” into a traceable search for agency records.</h2>
+        <p>It is especially useful when the thing you are looking for is older, hard to discover, not posted online, or likely to live in internal agency files rather than a public database.</p>
+      </div>
+      <div class="benefit-grid">
+        <article>
+          <span class="card-number">01</span>
+          <h3>Reach beyond the website</h3>
+          <p>Ask for existing SEC records that are not already easy to find in EDGAR, rulemaking pages, enforcement releases, or other public collections.</p>
+        </article>
+        <article>
+          <span class="card-number">02</span>
+          <h3>Get a trackable request</h3>
+          <p>A submitted request receives an agency tracking number, creating a concrete record you can follow through acknowledgment, processing, and response.</p>
+        </article>
+        <article>
+          <span class="card-number">03</span>
+          <h3>Create reusable research</h3>
+          <p>When releasable records come back, posting them publicly can save the next researcher from having to rediscover the same material alone.</p>
+        </article>
+        <article>
+          <span class="card-number">04</span>
+          <h3>Learn from the process</h3>
+          <p>Scope questions, fee decisions, searches, exemptions, and productions all teach future requesters how to frame better requests.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section starter" id="start">
+      <div class="starter-intro">
+        <p class="eyebrow">Start your own</p>
+        <h2>Make the SEC search for records, not for your answer.</h2>
+        <p>FOIA is a records-access law. The strongest requests identify existing records with enough detail that agency staff can reasonably locate them.</p>
+      </div>
+      <ol class="steps">
+        <li>
+          <span>1</span>
+          <div><h3>Check what is already public</h3><p>Search SEC.gov, EDGAR, rulemaking materials, enforcement pages, and the SEC’s frequently requested records first.</p></div>
+        </li>
+        <li>
+          <span>2</span>
+          <div><h3>Describe the record set</h3><p>Use a subject, date range, likely office or custodian, document type, names, and distinctive terms when you know them.</p></div>
+        </li>
+        <li>
+          <span>3</span>
+          <div><h3>Keep each request focused</h3><p>One subject per request is easier to search, easier to track, and consistent with the SEC’s own guidance for potentially faster processing.</p></div>
+        </li>
+        <li>
+          <span>4</span>
+          <div><h3>Publish what comes back</h3><p>Add the correspondence and released records to a public tracker so others can follow the request and reuse the result.</p></div>
+        </li>
+      </ol>
+      <div class="starter-actions">
+        <a class="button primary" href="https://www.sec.gov/forms/request_public_docs" rel="noreferrer">File an SEC FOIA request ↗</a>
+        <a class="button secondary" href="https://www.sec.gov/foia/foia-reference-guide" rel="noreferrer">Read the SEC FOIA guide ↗</a>
+        <a class="button secondary" href="https://www.sec.gov/foia/frequently-requested-documents/foia-logs" rel="noreferrer">Browse SEC FOIA logs ↗</a>
+      </div>
+      <p class="legal-note"><strong>What FOIA does not do:</strong> it generally does not require the SEC to conduct research for you, analyze data, answer questions, or create a new record. Records may also be withheld in whole or part under applicable FOIA exemptions.</p>
+    </section>
+  </main>
+
+  <footer>
+    <div>
+      <strong>FOIA Tracker</strong>
+      <p>A public notebook for following government-record requests from filing to release.</p>
+    </div>
+    <div class="footer-links">
+      <a href="https://www.sec.gov/foia" rel="noreferrer">SEC FOIA ↗</a>
+      <a href="https://www.sec.gov/foia/frequently-requested-documents/public-access-link-pal" rel="noreferrer">SEC Public Access Link ↗</a>
+      <a href="https://github.com/JFWooten4/FOIA-tracker">GitHub ↗</a>
+    </div>
+  </footer>
+
+  <div class="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+  <script src="script.js"></script>
+</body>
+</html>
