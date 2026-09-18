@@ -6,7 +6,8 @@ Please provide electronic copies of the complete public record of the 1976 Natio
 - transcripts of the June 1976 oral hearings and any transcript indexes;
 - all written comments, supplemental submissions, exhibits, attachments, and materials supplementing oral presentations;
 - related correspondence and memoranda of meetings contained in File No. 600-15;
-- all submissions by Bradford National Clearing Corporation, Bradford Securities Processing Services, Inc., National Clearing Corporation, TAD Depository Corporation, DTC, regional exchanges, regional clearing agencies, and the Department of Justice; and
+- all submissions by Bradford National Clearing Corporation, Bradford Securities Processing Services, Inc., National Clearing Corporation, TAD Depository Corporation, DTC, regional exchanges, regional clearing agencies, and the Department of Justice;
+- specifically, the Department of Justice letters dated July 23 and November 19, 1976, cited by the Commission in Exchange Act Release No. 34-13163; and
 - all materials describing or evaluating Bradford's alternative "Model II" structure, competition among clearing agencies, facilities management, pricing, and proposed inter-clearing-agency interfaces or links.
 
 Please include records from the initial May 1976 institution of proceedings through the January 13, 1977 registration order. If any portion is held only on microfiche, microfilm, retired paper, Federal Records Center/offsite storage, or legacy Public Reference Room holdings, please search those holdings and provide the best available reproduction.
@@ -15,7 +16,7 @@ Please include records from the initial May 1976 institution of proceedings thro
 
 The Commission's November 1976 notice states that NSCC's application comprised 25 documents filed on 12 occasions and was supplemented by related correspondence and information developed during oral hearings. It expressly states that the filed documents, related correspondence, memoranda of meetings, and transcripts of oral hearings were contained in public File No. 600-15 and available for copying and inspection. See [41 FR 49721, 49723 (Nov. 10, 1976)](https://www.govinfo.gov/content/pkg/FR-1976-11-10/pdf/FR-1976-11-10.pdf).
 
-The January 1977 registration order states that the proceeding generated more than 500 pages of oral presentations and more than 300 pages of supplemental materials, and identifies the proceeding transcript as File No. 600-15. See [42 FR 3916, 3926 (Jan. 21, 1977)](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf).
+The January 13, 1977 registration order states that the proceeding generated more than 500 pages of oral presentations and more than 300 pages of supplemental materials, and identifies the proceeding transcript as File No. 600-15. In its discussion of competition among clearing agencies, the Commission expressly cites Department of Justice letters dated July 23 and November 19, 1976. See [Securities Exchange Act Release No. 34-13163, 42 FR 3916, 3926, 3931 (Jan. 21, 1977)](https://www.govinfo.gov/content/pkg/FR-1977-01-21/pdf/FR-1977-01-21.pdf).
 
 ## Fee category / waiver
 
